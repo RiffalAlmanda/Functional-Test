@@ -1,0 +1,19 @@
+Black Box Testing
+-Black box testing dilakukan dengan mempertimbangkan persyaratan tetapi tanpa menggunakan pengetahuan tentang kode internal
+-Black box testing adalah suatu strategi dimana pengujian didasarkan pada persyaratan dan fungsionalitas
+
+Tantangan dalam black box testing
+-Exhaustive testing: pengujian semua kombinasi persyaratan adalah tidak mungkin
+-Accidental coincidence: kdang-kadang kita bisa mendapatkan keluaran benar untuk input yang salah (false positive)
+-Pengujian penerimaan
+-Pengujin sistem: menguji seluruh sistem untuk melihat apakah persyaratan memenuhi pelanggan.
+
+Keunggulan black box testing
+-Cocok untuk tester yang tidak memiliki basic pemrograman
+-Dapat melakukan test dari sudut pandang pengguna
+-Cepat dan sederhana.
+
+Kekurangan Black box
+-kemungkinan terjadi bug yang aman dari sudut pandang user tetapi bermasalah di proses program maupun database
+-Karena test sangat cepat berpotensi terdapat test proses yang terlewat atau adanya ketidaklitian user
+-Tester perlu mengetahui proses bisnis,pengetahuan produk dan user flow yang cukup mendalam
