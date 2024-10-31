@@ -1,0 +1,35 @@
+Functional Test
+-menurutISTBQ 'pengujian fungsional suatu sistem mencakup pengujian yang mengevaluasi fungsi-fungsi yng harus di jalnkan oleh system. Persyaratan fungsional dapt dijelaskan dalam produk kerj (persyaratan,spesifikasi,kebuthuan bisnis, cerita pengguna,kasus penggunaan) dan dalam spesifikasi fungsional.mereka juga bisa saj tidak terdokumentasi sama sekali.
+Fungsi-fungsi sistem memberikan jawbn terhadap pertnyaan, 'Apa yang dilakukan sistem?' pengujian fungsional harus dilakukan pada semua level enguijan 9misalnya,pengnujian komponen sistem dapat didasarkan pada spesifikasi komponen
+, sehingga setiap level memiliki titik fokus yang berbed'.
+
+Functional Testing
+-Menguji perangkat lunak berdasarkan spesifikasi dengan memberikan input dan menguji hasilnya.
+-Pengujin Fungsional dilakukan untuk mengevaluasi kepatuhan suatu sistem dengn persyaratan fungsional tertentu. Dengan kata lain,apa yang di lakukan sistem.
+-Para pengujian TIDAK MENGUJI fungsi metode
+dari omdul/kelas anda, tetapi para pengujian MENGUJI sebagian fungsionalitas dari sistem.
+
+Functional Testing vs testing
+-Fuctional testing memverifikai progrm dengan mengeceknya melawan design dokumentasi dan requirements
+-System Testing memverifikasi program dengan mengecek melawan the published use atau requiement sistem.
+
+Tahapan Functional Testing
+-Identifikasi fungsi yang diharapkan dapat dilakukan oleh software
+-Pmebuatan data masukan berdasarkan spesifikasi(desain/test technique)
+-Penentuan hasil berdasarkan spesifikasi
+-Eksekusi
+-Perbandingan hasil Aktual vs Ekspetasi
+
+Tujuan functional Testing
+-Evaluasi karakteristik fungsional dari kualitas sistem, seperti kelengkapan,kebenaran,kelayakan;
+-Evaluasi karakteristik kualitas non-fungsional, seperti keandalan,produktivitas,keamanan,kompatibilitas,dan kegunaan;
+-Evaluasi kebenaran dan kelengkapan struktur atau arsitektur komponen atau sistem,serta kesesuain mereka dengan spesifikasi.
+-Evaluasi dampak perubahan yang terjadi-misalnya, mengonfirmasi bahwa cacat telah diperbaiki(pengujian konfirmatif), dan mencari peruabahan tidak disengaj dlam perilaku yng disebabkan oleh perubahan dalam perangkat lunak atau lingkungan(pengujian regresi).
+
+Functional Testing vs Sytem Testing
+Tahapan Functional Testing
+-Identifikasi fungsi yang diharapkan dapat dilakukan oleh software
+-Pembutan data berdasarkan spesifikassi(desain/test technique)
+-Penentuan hasil berdasarkan spesifikasi
+-Eksekusi
+-Perbandingan hasil aktual vs eskspetasi
