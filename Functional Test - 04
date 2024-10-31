@@ -1,0 +1,15 @@
+Grey box Testing
+-Grey box testing adalah penggabungan dari kedua proses testing diatas,karena tester emiliki akses terhadap code dan juga database tida seperti blackbox testing
+yang hanya dari graphic user interface
+(Tampilan aplikasi) saja.
+sehingga tester dapat membuat rencana tes dan eksekusi testing yang lebih komprehensif
+
+Grey box testing
+Kelebihan
+-kombinasi metode dan keuntungan
+-Unbiased testig,tetap ada pada batas antara tester dan developer
+
+Kekurangan
+-Tester perlu mengetahui basic pemograman bahkan level advance
+-lebih kompleks dan cenderung mahal
+-memakan waktu untuk software yang sudah besar dan kompleks
