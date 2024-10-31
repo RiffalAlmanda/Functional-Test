@@ -1,0 +1,32 @@
+Tipe FUnctional test
+Types of Functional Testing
+-Unit Testing
+-Component testing
+-Smoke testing
+-Integration testing
+-Regression testing
+-Sanity testing
+-System testing
+-User acceptance testing
+
+Unit testing
+-Unit testing adalah pengujijan unit fugsional terkecil yang dapat bekerja secara independen
+
+Integration Testing
+-Integration testing adalah istilah yang cukup luas, karena berlaku untuk interaksi anatara unit dan sistem
+ini adalah tingkatberikutnya setelah pengujian integrasi serupa dengan tujuan pengujian unit, tetapi lebih difokuskan pada interaksi elemen antarmuka dan operasi mereka yang benar.
+
+System testing
+-System testing memeriksa bagaimana seluruh sistem beroperasi dan bergantung pada modul yang telah diuji sebelumnya,baik secara iindividuial maupun bersama-sama selama pengujian integrasi
+
+Smoke Test
+Smoke testing, Tesing yang dilakukan untuk menguji sbuah fitur penting dari program apakah sudah bekerja atau tidak
+
+Sanity Test
+-Sanity Testing,Testing yang dilakukan untuk memastikan bahwa perangkat lunak telah siap untuk diuji secara keseluruhan
+
+Regression Test
+-Regression testing, Memastikan bahwa modifikasi yang dilakukan pada perangkat lunak tidak memengaruhi fungsionalitas yang telah berjalan sebelumnya dan memastikan bahwa perubahan yang dibuat telah berjalan
+
+User Acceptance Testing
+-Tahapan dalam siklus pengujian software untuk memastikan produk yang dikembangkan sesuai dengan kebuthan dan harapan end user
