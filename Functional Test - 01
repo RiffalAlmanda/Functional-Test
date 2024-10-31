@@ -1,0 +1,25 @@
+Functional Test
+\*Poin belajar
+-Tipe Testing
+-Black Box Testing
+-Grey Box Testing
+-Functional Testing
+-Tipe-tipe Functional Test
+
+-tipe testing
+Static Testing mempunyai tipe tes tersendiri
+fungsional ada whitebox dan blackbox ada juga tipe-tipe lainya
+
+Functional - Non-functional
+
+Object of testing : Persyaratan Fungsional : Wajib
+Focus area : Business Objectives : Ekspetasi pengguna
+Level : Komponen : Sistem
+Stage : Pengembangan : Setelah pengujian functional
+Manual /automates : Dapat manual dan otomatis : harus otomatis
+efisiensi maksimum
+example of types : Unit,komponen,sistem,UI.penerimaan pengguna : performa.load,kemanan,kegunaan,pemulihan
+Importance : wajib : tidak wajib,namun dianjurkan
+
+Dynamic Tesing
+-Jenis pengujian yang dilakukan dengan menjalankan software yang sedang di uji dan memeriksa perilaku serta kinerja software
