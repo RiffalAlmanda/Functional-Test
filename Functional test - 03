@@ -1,0 +1,30 @@
+White box testing
+-Berkebalikan dengan black box yang tidak mengetahui seperti apa algoritma dalam software.White box testing adalah proses testing untuk mengetahui cara kerja secara interma.
+bertujuan unutk menjamin operasioperasi telah sesuai dengan spesifikasi yang telah ditentukan sebelumnya
+
+Whitebox Box testing
+White box testing didasarkan pada persyaratan dan juga mempertimbangkan pengetahuan internal tentang kode
+-cakupan pernyataan: pelaksanaan setiap pernyataan (statement)
+-cakupan kondisional: pengujian pelaksanaan if/false
+cakupan cabang; semua bagian dari program.
+pengujian loop: pengujian for loop/do/while dalam kode.
+kebocoran memori: memeriksa varioabel yang tidak perlu.
+
+
+White box testing 
+Kelebihan 
+-lebih detail
+-lebih mudah
+-lebih cepat mengetahui bug karena di test sebelum ada GUI
+
+Kekurangan 
+-Partial source code testing
+-kemuungkinan pengulangan tes yang sama antara tester dan developer
+-tidak semua kemungkinan flow input-output dijalankan
+
+White box testing 
+Basis path
+Pmebuatan alur yang memungkinkan dari sebuah program mulai dari inut hingga output.
+
+Kompleksitas Siklomatis ( Cyclomati Complexity)
+Proses unutk mengukur seberapa kompleks path dan flow pada software tersebut.
